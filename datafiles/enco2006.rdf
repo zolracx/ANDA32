@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="C:\Documents and Settings\ehuapaya\Mis documentos\MICRODATOS 2004\ENCO 2006\FichaTecnica.zip">
+    <rdf:label>
+      Ficha Técnica 2006
+    </rdf:label>
+    <dc:title>
+      Ficha Técnica
+    </dc:title>
+    <dc:description>
+      <![CDATA[Documento que describe las características de la metodología de la Encuesta Nacional Continua en general  del año 2006.]]>
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[ÍNDICE
+1. METODOLOGÍA DEL CENSO CONTINUO .
+2. OBJETIVOS
+   2.1 Objetivos generales.
+   2.2 Objetivos específicos.
+3. ESTRATEGIAS.
+4. COBERTURA GEOGRÁFICA .
+5. PERIODO DE EJECUCIÓN.
+6. UNIDADES DE INVESTIGACIÓN .
+7. UNIDADES DE INVESTIGACIÓN Y VARIABLES DEL CUESTIONARIO ENCO 2006.
+8. CARACTERÍSTICAS DE LA ENCUESTA..
+    8.1 Tipo de encuesta.
+    8.2 Método de entrevista.
+    8.3 Periodos de referencia .
+    8.4 Informantes .
+9. DISEÑO MUESTRAL.
+   9.1 Población y cobertura del marco muestral.
+   9.2 Unidades de muestreo.
+   9.3 Niveles de inferencia de resultados .
+   9.4 Definición de la muestra .
+   9.5 Determinación del tamaño de la muestra .
+   9.6 Distribución de la muestra.
+   9.7 Selección de la muestra.
+   9.8 Errores de la muestra.
+10. MÉTODOS Y DOCUMENTOS.
+    10.1 Cuestionarios .
+    10.2 Manuales.
+    10.3 Documentos auxiliares .
+11. CAPACITACION.
+    11.1 Cursos de capacitación .
+    11.2 Método de capacitación.
+12. OPERACIÓN DE CAMPO .
+    12.1 Organización .
+    12.2 Estrategias .
+    12.3 Ejecución del trabajo de campo .
+13. DISTRIBUCIÓN, RECEPCIÓN Y ARCHIVO DE MATERIALES .
+    13.1 Preparación y embalaje del material para el trabajo de campo.
+    13.2 Distribución para la operación de campo .
+    13.3 Recepción del material de campo .
+    13.4 Distribución y recepción de los cuestionarios diligenciados .
+14. PROCESAMIENTO DE DATOS .
+    14.1 Objetivos .
+    14.2 Organización ..
+    14.3 Procesos .
+    14.4 Sistemas de información .
+    14.5 Tecnología informática utilizada .
+]]>
+    </dcterms:tableOfContents>
+    <dc:creator>
+      Instituto Nacional de Estadística e Informática.
+    </dc:creator>
+    <dc:publisher>
+      Instituto Nacional de Estadística e Informática.
+    </dc:publisher>
+    <dcterms:created>
+      2006-01-01
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Técnico [doc/tec]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Peru [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="C:\Documents and Settings\ehuapaya\Mis documentos\MICRODATOS 2004\ENCO 2006\Diccionario.zip">
+    <rdf:label>
+      Diccionario 2006
+    </rdf:label>
+    <dc:title>
+      Diccionario de variables de la base de datos
+    </dc:title>
+    <dc:description>
+      Contiene información esencial de las variables.
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[ENCO - 2006 ANUAL (ENERO - DICIEMBRE)
+
+DESCRIPCION DEL ARCHIVO DATA_ 100 (VIVIENDA Y HOGAR)
+DESCRIPCION DEL ARCHIVO DATA_ 200 (RESIDENTES HABITUALES)
+DESCRIPCION DEL ARCHIVO DATA_ 300 (CARACTERISTICAS SOCIALES Y DEMOGRAFICAS)
+DESCRIPCION DEL ARCHIVO DATA_ 303 (CARACTERISTICAS SOCIALES Y DEMOGRAFICAS)
+PREGUNTA 303
+DESCRIPCION DEL ARCHIVO DATA_ 305 (CARACTERISTICAS SOCIALES Y DEMOGRAFICAS)
+PREGUNTA 305 - 306
+DESCRIPCION DEL ARCHIVO DATA_ 308 (CARACTERISTICAS SOCIALES Y DEMOGRAFICAS)
+PREGUNTA 308
+DESCRIPCION DEL ARCHIVO DATA_ 400 (CARACTERISTICAS DE POBLACION)
+
+]]>
+    </dcterms:tableOfContents>
+    <dc:creator>
+      Instituto Nacional de Estadística e Informática
+    </dc:creator>
+    <dc:publisher>
+      Instituto Nacional de Estadística e Informática.
+    </dc:publisher>
+    <dcterms:created>
+      2006-01-01
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Otro [doc/oth]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Peru [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="C:\Documents and Settings\ehuapaya\Mis documentos\MICRODATOS 2004\ENCO 2006\Cuestionario-Nacional.zip">
+    <rdf:label>
+      <![CDATA[Cuestionario  2006]]>
+    </rdf:label>
+    <dc:title>
+      Cuestionario Nacional
+    </dc:title>
+    <dc:description>
+      <![CDATA[El cuestionario de la encuesta Nacional Continua 2006 registra las características más relevantes de cada uno de los miembros residentes habituales del hogar tales como: parentesco con el jefe del hogar, sexo, edad, si tiene documentos y el lugar de nacimiento, atención a la salud,  nivel de educación alcanzado, asistencia escolar, idioma o lengua que aprendió en su niñez, discapacidad, violencia a los miembros del hogar, empleo, ocupación y para mujeres mayores de 14 años se indagó sobre el número de hijos. Asimismo, proporciona información sobre las  características básicas de la vivienda: Estructurales (paredes, techo y piso), servicios básicos (alumbrado, agua y desagüe), energía o combustible que usan para cocinar, eliminación de basura.  
+]]>
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[  IDENTIFICACIÓN                                                
+1.  CARACTERISTICAS DE LA VIVIENDA Y DEL HOGAR                                             
+     Datos de la vivienda
+     Datos del hogar
+2. CARACTERÍSTICAS DE LOS RESIDENTES HABITUALES DEL HOGAR                                
+3. CARACTERISTICAS SOCIALES Y DEMOGRAFICAS DEL HOGAR
+4. CARACTERISTICAS DE LA POBLACION 
+   OBSERVACIONES]]>
+    </dcterms:tableOfContents>
+    <dcterms:abstract>
+      El cuestionario proporciona información sobre las características generales de la población y de sus hogares.
+    </dcterms:abstract>
+    <dc:creator>
+      Instituto Nacional de Estadística e Informática.
+    </dc:creator>
+    <dc:subject>
+      <![CDATA[CARATULA
+ 
+Población
+Vivienda y Hogar
+Educación
+Salud
+Empleo
+Migración
+Turismo
+Etnia
+Discapacidad
+Violencia  y  Victimización
+Población Indocumentada
+Religión
+Accesibilidad a los servicios públicos
+Información y comunicación
+
+]]>
+    </dc:subject>
+    <dc:publisher>
+      Instituto Nacional de Estadística e Informática.
+    </dc:publisher>
+    <dcterms:created>
+      2005-01-01
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Cuestionario [doc/qst]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Peru [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="Manual de la Entrevistadora 2006.pdf">
+    <rdf:label>
+      <![CDATA[Manual del  Entrevistador 2006]]>
+    </rdf:label>
+    <dc:title>
+      Manual de la Entrevistadora 2006
+    </dc:title>
+    <dc:description>
+      <![CDATA[El presente documento contiene la finalidad y objetivos, características de la encuesta, organización del trabajo de campo y las instrucciones que debe tener en cuenta el Encuestador durante el desarrollo de sus funciones. Asimismo, servirá de instrumento de consulta para el personal de los diferentes niveles jerárquicos que participarán en la ejecución .
+Asimismo, contiene definiciones, conceptos, procedimientos e instrucciones básicas necesarias para que el trabajo de la entrevista se desarrolle en el marco de un trabajo dentro de los  parámetros de homogeneidad, calidad, veracidad y confiabilidad.]]>
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[1. FINALIDAD Y OBJETIVOS
+1.1 Finalidad 
+1.2 Objetivos Generales
+1.3 Objetivos Específicos.
+2. ORGANIZACIÓN DE LA OPERACIÓN DE CAMPO
+2.1 Funcional .
+2.2 Organización del Personal de Campo.
+2.3 Organización del Trabajo de Campo.
+3. CARACTERÍSTICAS DE LA ENCUESTA CONTINUA.
+3.1 Tipo de Encuesta .
+3.2 Cobertura de la Encuesta .
+3.3 Método de Entrevista ..
+3.4 Unidades de Investigación 
+3.5 Periodos de Referencia..
+3.6 Diseño Muestral ...
+4. PROCEDIMIENTOS PARA LA IDENTIFICACIÓN Y SELECCIÓN DE LA MUESTRA
+DE VIVIENDAS..
+4.1 Definiciones Básicas..
+4.2 Identificación de la Muestra de Viviendas...
+4.3 Listado de Viviendas Anteriores y Posteriores.
+4.4 Tratamiento de la No Respuesta..
+5. ENCUESTADOR.
+5.1 Encuestador.
+5.2 Funciones .
+5.3 Prohibiciones ..
+6. LA ENTREVISTA..
+6.1 ¿Qué es la Entrevista?.
+6.2 ¿Cómo hacer la Entrevista?..
+6.3 ¿Qué documentos y materiales utilizará el Encuestador?
+6.4 ¿Quiénes proporcionarán los datos de la entrevista?...
+7. INSTRUCCIONES GENERALES PARA EL LLENADO DEL CUESTIONARIO Doc.ENCO. 01.
+7.1 Capítulos del cuestionario.
+7.2 Instrucciones generales .
+8. INSTRUCCIONES ESPECÍFICAS PARA EL LLENADO DE LA CARÁTULA DEL CUESTIONARIO Doc.ENCO. 01.
+9. INSTRUCCIONES ESPECÍFICAS PARA EL LLENADO DEL CAPÍTULO 100: CARACTERÍSTICAS DE LA VIVIENDA Y DEL HOGAR .
+10. INSTRUCCIONES ESPECÍFICAS PARA EL LLENADO DEL CAPÍTULO 200: CARACTERÍSTICAS DE LOS RESIDENTES HABITUALES DEL HOGAR .
+11. INSTRUCCIONES ESPECÍFICAS PARA EL LLENADO DEL CAPÍTULO 300: CARACTERÍSTICAS SOCIALES Y DEMOGRÁFICAS DEL HOGAR .
+12. INSTRUCCIONES ESPECÍFICAS PARA EL LLENADO DEL CAPÍTULO 400: CARACTERÍSTICAS DE LA POBLACIÓN.
+13. INSTRUCCIONES PARA EL DILIGENCIAMIENTO DE LOS DOCUMENTOS AUXILIARES 
+ANEXOS
+    ]]>
+    </dcterms:tableOfContents>
+    <dcterms:abstract>
+      Documento de referencia y consulta para uso de la Entrevistadora, el cual facilita el trabajo de campo y sirve para homogenizar criterios y hacer comparables los datos obtenidos.
+    </dcterms:abstract>
+    <dc:creator>
+      Instituto Nacional de Estadística e Informática.
+    </dc:creator>
+    <dc:subject>
+      <![CDATA[Organización de la Encuesta.
+Funciones de la entrevistadora.
+Técnicas para la entrevista.
+Instrucciones específicas de los cuestionarios.
+Recomendaciones generales.]]>
+    </dc:subject>
+    <dc:publisher>
+      <![CDATA[Instituto Nacional de Estadística e Informática.
+]]>
+    </dc:publisher>
+    <dcterms:created>
+      2005-12-01
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Referencia [doc/ref]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Peru [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="C:\Documents and Settings\ehuapaya\Mis documentos\MICRODATOS 2004\ENCO 2006\Control-Calidad-Variables.zip">
+    <rdf:label>
+      Control de Calidad de Variables
+    </rdf:label>
+    <dc:title>
+      Control de Calidad de las Variables
+    </dc:title>
+    <dc:description>
+      Contiene las reglas de consistencia de los documentos ENCO.1A y Documentos ENCO.01B
+    </dc:description>
+    <dc:creator>
+      <![CDATA[Instituto Nacional de Estadística e Informática.
+]]>
+    </dc:creator>
+    <dc:publisher>
+      <![CDATA[Instituto Nacional de Estadística e Informática.
+]]>
+    </dc:publisher>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Otro [doc/oth]
+    </dc:type>
+    <dc:language>
+      español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      perú [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="C:\Documents and Settings\ehuapaya\Mis documentos\MICRODATOS 2004\ENCO 2006\Flujos.zip">
+    <rdf:label>
+      Flujos
+    </rdf:label>
+    <dc:title>
+      Flujos para base de datos ENCO 1B
+    </dc:title>
+    <dc:description>
+      Contiene los flujos para bases de datos ENCO 1B
+    </dc:description>
+    <dc:creator>
+      <![CDATA[Instituto Nacional de Estadística e Informática.
+]]>
+    </dc:creator>
+    <dc:publisher>
+      <![CDATA[Instituto Nacional de Estadística e Informática.
+]]>
+    </dc:publisher>
+    <dc:type>
+      Documento, Administrativo [doc/adm]
+    </dc:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="C:\Documents and Settings\ehuapaya\Mis documentos\MICRODATOS 2004\ENCO 2006\IMPUTACIONES-ENCO01A1.zip">
+    <rdf:label>
+      Imputaciones ENCO 01A1
+    </rdf:label>
+    <dc:title>
+      Imputaciones Horas e Ingresos
+    </dc:title>
+    <dc:description>
+      <![CDATA[REGLAS DE IMPUTACIONES PARA HORAS E INGRESOS
+DE LA ENCUESTA CONTINUA 2006
+]]>
+    </dc:description>
+    <dc:creator>
+      <![CDATA[Instituto Nacional de Estadística e Informática.
+]]>
+    </dc:creator>
+    <dc:publisher>
+      <![CDATA[Instituto Nacional de Estadística e Informática.
+]]>
+    </dc:publisher>
+    <dc:type>
+      Documento, Administrativo [doc/adm]
+    </dc:type>
+  </rdf:Description>
+</rdf:RDF>

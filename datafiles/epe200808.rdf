@@ -1,0 +1,446 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="Diccionario.pdf">
+    <rdf:label>
+      Diccionario
+    </rdf:label>
+    <dc:title>
+      Diccionario de datos (Mar 2007 -Ago 2008)
+    </dc:title>
+    <dc:description>
+      <![CDATA[Documento de 12 páginas que detalla las variables existentes en la base de datos de la Encuesta Permanente de Empleo (EPE) del trimestre móvil junio - julio - agosto 2008, en lo referente a nombre de la variable, tamaño, formato y etiqueta.
+]]>
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[- Variables de la carátula.
+- Variables del capítulo 100: Características de los miembros del hogar.
+- Variables del capítulo 200: Empleo e ingreso.
+- Variables imputadas.
+- Factor de expansión.
+]]>
+    </dcterms:tableOfContents>
+    <dcterms:abstract>
+      <![CDATA[Contiene la descripción de todas las variables que forman parte de las Características de los miembros del hogar, Empleo e ingreso, utilizadas en la Encuesta Permanente de Empleo (EPE) del trimestre móvil junio - julio - agosto 2008.
+]]>
+    </dcterms:abstract>
+    <dc:creator>
+      Instituto Nacional de Estadística e Informática.
+    </dc:creator>
+    <dc:subject>
+      <![CDATA[-  Descripción de las variables sobre las características de los miembros del hogar.
+-  Descripción de las variables sobre el empleo.
+-  Descripción de las variables sobre el ingreso.
+
+]]>
+    </dc:subject>
+    <dc:publisher>
+      Instituto Nacional de Estadística e Informática.
+    </dc:publisher>
+    <dcterms:created>
+      2008-09-13
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Técnico [doc/tec]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Peru [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="fichatecnica.pdf">
+    <rdf:label>
+      Ficha Técnica
+    </rdf:label>
+    <dc:title>
+      Ficha Técnica Trimestre Móvil Junio - Agosto 2008.
+    </dc:title>
+    <dc:description>
+      <![CDATA[Documento de 27 páginas, en donde se detallan las características técnicas de la Encuesta Permanente de Empleo (EPE) para el trimestre móvil  junio - julio - agosto 2008.
+]]>
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[1. Objetivos.
+2. Indicadores.
+3. Cobertura.
+4. Período de ejecución.
+5. Período de referencia.
+6. Población objetivo.
+7. Diseño y marco muestral.
+8. Niveles de inferencia.
+9. Unidad de investigación.
+10. Informantes.
+11. Número de preguntas.
+12. Temas investigados.
+13. Definiciones básicas.
+14. Informe de operación de campo.
+15. Informe de procesamiento.
+16. Construcción de factores de expansión.
+17. Imputaciones.
+18. Resultados.
+]]>
+    </dcterms:tableOfContents>
+    <dcterms:abstract>
+      <![CDATA[La ficha técnica contiene información sobre diversos aspectos relacionados con la encuesta, como 
+por ejemplo: objetivos de la encuesta, principales indicadores que se toman en cuenta, temas que 
+son investigados con la encuesta, algunas definiciones básicas necesarias para la comprensión de 
+los resultados de la encuesta, la población objetivo y el diseño muestral.
+
+Asimismo, contiene información sobre la operación de campo, la cual está basada en el recojo de información, el desarrollo de la operación y algunos indicadores de cobertura para el presente trimestre móvil. También podemos encontrar en la ficha técnica, el modo en que se realizó la reentrevista y los resultados que se obtuvieron luego de realizarla.
+
+Finalmente se detalla un informe sobre el procesamiento de información, cuáles fueron las imputaciones y cómo fue la construcción de los factores de expansión.
+]]>
+    </dcterms:abstract>
+    <dc:creator>
+      Instituto Nacional de Estadística e Informática.
+    </dc:creator>
+    <dc:subject>
+      <![CDATA[- Objetivos de la encuesta.
+- Principales indicadores de la encuesta.
+- Cobertura y períodos de la encuesta.
+- Población objetivo y la muestra.
+- Rendimiento de la muestra.
+- Unidad de investigación.
+- Operación de campo.
+- Indicadores de cobertura.
+- La reentrevista.
+]]>
+    </dc:subject>
+    <dc:publisher>
+      Instituto Nacional de Estadística e Informática.
+    </dc:publisher>
+    <dcterms:created>
+      2008-09-13
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Técnico [doc/tec]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Peru [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="cuestionario.zip">
+    <rdf:label>
+      Cuestionario
+    </rdf:label>
+    <dc:title>
+      Cuestionario Encuesta Permanente de Empleo
+    </dc:title>
+    <dc:description>
+      <![CDATA[Archivo que contiene cuatro documentos que forman el cuestionario de la Encuesta Permanente de Empleo (EPE) en Lima Metropolitana para el trimestre móvil junio - julio - agosto 2008.
+]]>
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[A. Carátula.
+   * Ubicación geográfica de la vivienda.
+   * Ubicación muestral de la vivienda.
+   * Entrevista y supervisión.
+   * Resultado final de la encuesta.
+   * Funcionarios de la encuesta.
+    
+B. Capítulo 100.
+   * Características de los miembros del hogar.
+
+C. Capítulo 200.
+   * Ocupados.
+   * Ingresos.
+   * Desocupados.
+   * Seguro de Salud.
+   * Ingresos.
+   * Desocupados.
+   * Seguro de Salud.
+
+
+]]>
+    </dcterms:tableOfContents>
+    <dcterms:abstract>
+      <![CDATA[El cuestionario de la EPE está conformado por tres partes: la primera es la carátula que contiene 15 preguntas, la segunda es el capítulo 100: características de los miembros del hogar que contiene 12 preguntas y la tercera parte es el capítulo 200: Empleo e Ingreso que contiene 29 preguntas.
+]]>
+    </dcterms:abstract>
+    <dc:creator>
+      Instituto Nacional de Estadística e Informática.
+    </dc:creator>
+    <dc:subject>
+      <![CDATA[- Características de los miembros del hogar.
+- Empleo.
+- Ingreso.
+
+]]>
+    </dc:subject>
+    <dc:publisher>
+      Instituto Nacional de Estadística e Informática.
+    </dc:publisher>
+    <dc:format>
+      Comprimido, ZIP [application/zip]
+    </dc:format>
+    <dc:type>
+      Documento, Cuestionario [doc/qst]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Peru [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="indicadorestrimestrales.pdf">
+    <rdf:label>
+      Indicadores Trimestrales.
+    </rdf:label>
+    <dc:title>
+      Indicadores Trimestrales. Período Trimestre Móvil Junio - Agosto 2008
+    </dc:title>
+    <dc:description>
+      <![CDATA[Documento de 2 páginas que presenta un cuadro que contiene los indicadores trimestrales de la tasa de ocupación y desocupación, según características en Lima Metropolitana.
+]]>
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[- Tasa de actividad por trimestre móvil desde mayo 2007 hasta agosto 2008, según sexo, grupo de 
+  edad y nivel educativo.
+  
+- Tasa de empleo por trimestre móvil desde mayo 2007 hasta agosto 2008, según sexo, grupo de edad
+  y nivel educativo.
+  
+- Tasa de desempleo por trimestre móvil desde mayo 2007 hasta agosto 2008, según sexo, grupo de
+  edad y nivel educativo.
+
+]]>
+    </dcterms:tableOfContents>
+    <dcterms:abstract>
+      <![CDATA[Se presenta una serie histórica desde mayo 2007 hasta agosto del 2008 (por trimestre móvil) de las tasas de actividad, de empleo y de desempleo; según sexo, grupo de edad y nivel educativo.
+]]>
+    </dcterms:abstract>
+    <dc:creator>
+      Instituto Nacional de Estadística e Informática.
+    </dc:creator>
+    <dc:subject>
+      <![CDATA[- Evolución de la tasa de actividad.
+- Evolución de la tasa de empleo.
+- Evolución de la tasa de desempleo.
+]]>
+    </dc:subject>
+    <dc:publisher>
+      Instituto Nacional de Estadística e Informática.
+    </dc:publisher>
+    <dcterms:created>
+      2008-09-14
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Técnico [doc/tec]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Peru [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="erroresmuestralestrimestrales.pdf">
+    <rdf:label>
+      Errores Muestrales por Trimestre.
+    </rdf:label>
+    <dc:title>
+      Errores Muéstrales por Trimestre. Trimestre Móvil Junio - Agosto 2008.
+    </dc:title>
+    <dc:description>
+      <![CDATA[Documento de 16 páginas en donde se presenta indicadores estadísticos del grado de confianza de las diversas variables obtenidas en base a la información de la Encuesta Permanente de Empleo en Lima Metropolitana del trimestre móvil junio - julio - agosto 2008.   
+]]>
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[Errores Muestrales: Indicadores de Empleo del trimestre móvil junio - julio - agosto 2008.
+
+- Tasa de actividad.
+- Tasa de ocupación.
+- Tasa de desempleo.
+- Ratio: Ocupados/ PET
+- Tasa de asalariamiento.
+- Población en edad de trabajar (PET).
+- Población Económicamente Activa (PEA).
+- Ocupados. 
+- Asalariados.
+- Desocupados. 
+- Cesantes.
+- Duración del desempleo (Promedio de semanas).
+- Inactivos.
+- Adecuadamente empleados.
+- Tasa de subempleo.
+- Tasa de subempleo por horas (Visible).
+- Tasa de Subempleo por ingresos (Invisible).
+- Subempleo Total.
+- Subempleo por horas (Visible).
+- Subempleo por ingresos (Invisible)
+- Ingresos.
+]]>
+    </dcterms:tableOfContents>
+    <dcterms:abstract>
+      <![CDATA[Presenta información en tablas que contienen: el valor estimado, el error estándar, el coeficiente de variación, los intervalos de confianza y el estadístico DEFF de las diversas variables obtenidas en base a la información de la Encuesta Permanente de Empleo en Lima Metropolitana del trimestre móvil junio - julio - agosto 2008.   
+
+]]>
+    </dcterms:abstract>
+    <dc:creator>
+      <![CDATA[Instituto Nacional de Estadística e Informática
+]]>
+    </dc:creator>
+    <dc:subject>
+      <![CDATA[- Estructura de la Población Total.
+- Población en Edad de Trabajar (PET).
+- Población Económicamente Activa (PEA).
+- Población Ocupada.
+- Población Desocupada.
+- Tasa de actividad.
+- Empleo.
+- Desempleo.
+- Subempleo.
+]]>
+    </dc:subject>
+    <dc:publisher>
+      <![CDATA[Instituto Nacional de Estadística e Informática
+]]>
+    </dc:publisher>
+    <dcterms:created>
+      2008-09-13
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Técnico [doc/tec]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Peru [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="it7577epe200808.pdf">
+    <rdf:label>
+      Informe Técnico
+    </rdf:label>
+    <dc:title>
+      Informe Técnico
+    </dc:title>
+    <dc:description>
+      <![CDATA[Documento de 49 páginas que contiene los resultados y conclusiones de la Encuesta Permanente de Empleo (EPE) para el trimestre móvil mayo - junio - julio 2008.
+]]>
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[Situación del Mercado Laboral en Lima Metropolitana.
+
+Resumen Ejecutivo.
+I. Condición de actividad.
+II.Niveles de empleo.
+III.Ocupación.
+IV.Desempleo.
+V. Ingresos.
+
+Características del Mercado Laboral.
+1.- Población en edad de trabajar según condición de actividad.
+2.- Población económicamente activa según niveles de empleo.
+3.- Ingresos.
+
+Anexos.
+Ficha Técnica.
+Indicadores de empleo de países de América Latina.
+]]>
+    </dcterms:tableOfContents>
+    <dcterms:abstract>
+      <![CDATA[El informe técnico detalla la situación y las características del mercado laboral en Lima Metropolitana, es decir, este informe presenta todos los resultados obtenidos de la Encuesta Permanente de Empleo (EPE) en lo referente a población económicamente activa (PEA), población económicamente inactiva (PEI), población en edad de trabajar (PET), empleo, desempleo e ingreso.
+]]>
+    </dcterms:abstract>
+    <dc:creator>
+      Instituto Nacional de Estadística e Informática (INEI).
+    </dc:creator>
+    <dc:subject>
+      <![CDATA[- Empleo.
+- Desempleo.
+- Ingreso.
+- Población Económicamente Activa (PEA).
+- Población Económicamente Inactiva (PEI).
+- Población en Edad de Trabajar (PET).
+]]>
+    </dc:subject>
+    <dc:publisher>
+      Instituto Nacional de Estadística e Informática (INEI).
+    </dc:publisher>
+    <dcterms:created>
+      2005-09-01
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Técnico [doc/tec]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Peru [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="np7573epe200808.pdf">
+    <rdf:label>
+      Nota de Prensa
+    </rdf:label>
+    <dc:title>
+      Nota de Prensa
+    </dc:title>
+    <dc:description>
+      <![CDATA[Documento de 2 páginas sobre el comportamiento del empleo, desempleo abierto e ingreso de la Población Económicamente Activa (PEA) en Lima Metropolitana, en base a la información obtenida de la Encuesta Permanente de Empleo (EPE) en el trimestre móvil junio - julio - agosto 2008.
+]]>
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[- Población ocupada en distintos sectores.
+- Población Económicamente Activa (PEA).
+- Niveles de empleo.
+- Ingreso promedio mensual.
+]]>
+    </dcterms:tableOfContents>
+    <dcterms:abstract>
+      <![CDATA[Información más resaltante sobre los cambios (incremento o disminución) en la tasa de empleo, tasa de desempleo e ingresos promedios en Lima Metropolitana, en el trimestre móvil noviembre junio - julio - agosto 2008.
+
+]]>
+    </dcterms:abstract>
+    <dc:creator>
+      Instituto Nacional de Estadística e Informática (INEI).
+    </dc:creator>
+    <dc:subject>
+      <![CDATA[- Aumento del empleo en el Sector de Construcción. 
+- Aumento de la Población Económicamente Activa (PEA) adecuadamente empleada.
+- Incremento del ingreso promedio mensual.
+]]>
+    </dc:subject>
+    <dc:publisher>
+      Instituto Nacional de Estadística e Informática (INEI).
+    </dc:publisher>
+    <dcterms:created>
+      2005-09-01
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Referencia [doc/ref]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Peru [per]
+    </dcterms:spatial>
+  </rdf:Description>
+</rdf:RDF>

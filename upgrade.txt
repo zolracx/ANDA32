@@ -1,0 +1,102 @@
+# Database changes
+
+# ------------------------------------------------------
+# USERS
+# ------------------------------------------------------
+ALTER TABLE `users` ADD COLUMN `authtype` VARCHAR(45);
+
+
+# ------------------------------------------------------
+# citations 
+# ------------------------------------------------------
+ALTER TABLE `citations`
+    ADD COLUMN  keywords text,
+    ADD COLUMN notes text,
+    ADD COLUMN doi varchar(255) DEFAULT NULL,
+    ADD COLUMN flag varchar(45) DEFAULT NULL,
+    ADD COLUMN owner varchar(255) DEFAULT NULL,
+    ADD COLUMN country varchar(100) DEFAULT NULL
+ ;
+
+# ------------------------------------------------------
+# surveys
+# ------------------------------------------------------
+ALTER TABLE surveys
+ADD COLUMN abbreviation varchar(45) DEFAULT NULL,
+ADD COLUMN   kindofdata varchar(255) DEFAULT NULL,
+ADD COLUMN   keywords text,
+ADD COLUMN   ie_program varchar(255) DEFAULT NULL,
+ADD COLUMN   ie_project_id varchar(255) DEFAULT NULL,
+ADD COLUMN   ie_project_name varchar(255) DEFAULT NULL,
+ADD COLUMN   ie_project_uri varchar(255) DEFAULT NULL,
+ADD COLUMN   ie_team_leaders text,
+ADD COLUMN   project_id varchar(255) DEFAULT NULL,
+ADD COLUMN   project_name varchar(255) DEFAULT NULL,
+ADD COLUMN   project_uri varchar(255) DEFAULT NULL,
+ADD COLUMN   link_da varchar(255) DEFAULT NULL;
+
+
+# ------------------------------------------------------
+# Repositories
+# ------------------------------------------------------
+#
+# repositores table was not really used before NADA 3.1, make a backup before running the delete statement
+drop table repositories;
+
+# TABLE STRUCTURE FOR: repositories
+CREATE TABLE repositories (
+  id int(11) NOT NULL AUTO_INCREMENT,
+  repositoryid varchar(255) NOT NULL,
+  title varchar(100) NOT NULL,
+  url varchar(255) NOT NULL,
+  organization varchar(45) DEFAULT NULL,
+  email varchar(45) DEFAULT NULL,
+  country varchar(45) DEFAULT NULL,
+  scan_lastrun int NOT NULL,
+  scan_interval int NOT NULL,
+  scan_nextrun int NOT NULL,
+  status varchar(255) NOT NULL,
+  surveys_found int NOT NULL,
+  changed int NOT NULL,
+  PRIMARY KEY (id),
+  UNIQUE KEY Ind_unq (repositoryid),
+  UNIQUE KEY idx_url (url)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+# TABLE STRUCTURE FOR: harvester_queue
+CREATE TABLE harvester_queue (
+  id int NOT NULL AUTO_INCREMENT,
+  repositoryid varchar(50) NOT NULL,
+  survey_url varchar(100) NOT NULL,
+  status varchar(45) NOT NULL,
+  ddi_local_path varchar(255) NOT NULL,
+  changed int NOT NULL,
+  title varchar(255) NOT NULL,
+  survey_timestamp int NOT NULL,
+  retries int(11) DEFAULT '0',
+  country varchar(255) DEFAULT NULL,
+  survey_year int DEFAULT NULL,
+  accesspolicy varchar(45) DEFAULT NULL,
+  checksum varchar(255) DEFAULT NULL,
+  surveyid varchar(200) DEFAULT NULL,
+  PRIMARY KEY (id),
+  UNIQUE KEY idx_unq (repositoryid,survey_url),
+  UNIQUE KEY idx_s_r (repositoryid,surveyid)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
+
+
+#
+# TABLE STRUCTURE FOR: survey_collections
+#
+
+CREATE TABLE survey_collections (
+  uid int NOT NULL AUTO_INCREMENT,
+  sid int DEFAULT NULL,
+  tid int DEFAULT NULL,
+  PRIMARY KEY (uid)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
+
+
+
+
+

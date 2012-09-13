@@ -1,0 +1,602 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="Ficha_Técnica.pdf">
+    <rdf:label>
+      Ficha Técnica
+    </rdf:label>
+    <dc:title>
+      Ficha Técnica
+    </dc:title>
+    <dc:description>
+      Documento que describe las caracteristicas técnicas del Registro Nacional de Municipalidades 2005.
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[1. Objetivo.
+2. Base Legal.
+3. Cobertura.
+4. Periodicidad.
+5. Unidad de investigación.
+6. Informantes.
+7. Cobertura temática.
+8. Tratamiento de la información.
+9. Periodo de referencia.
+10. Tipos de municipalidades.]]>
+    </dcterms:tableOfContents>
+    <dcterms:abstract>
+      <![CDATA[Este documento contiene información legal en que se basa el RENAMU, así como los objetivos, cobertura, periodicidad, unidad de investigación, los informantes, cobertura temática y tratamiento de información.  ]]>
+    </dcterms:abstract>
+    <dc:creator>
+      Oficina Técnica de Estadísticas Departamentales OTED
+    </dc:creator>
+    <dc:subject>
+      Base legal
+    </dc:subject>
+    <dc:subject>
+      Parámetros de ejecución
+    </dc:subject>
+    <dcterms:created>
+      2005-04-01
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Técnico [doc/tec]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Perú [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="Plan_Directriz.pdf">
+    <rdf:label>
+      Plan Directriz
+    </rdf:label>
+    <dc:title>
+      Plan Directriz
+    </dc:title>
+    <dc:description>
+      Documento que describe los procesos del Registro Nacional de Municipalidades 2005. Constituye el documento guía para la organización, ejecución y evaluación del registro, asimismo, contiene el objetivo general y los específicos, las características técnicas, el cronograma de actividades y presupuesto que comprende su ejecución.
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[Introducción
+
+Indice
+
+1. Objetivos
+   1.1  Objetivo general
+   1.2  Objetivos específicos 
+
+2. Base Legal
+
+3. Características técnicas
+   3.1  Cobertura geográfica 
+   3.2  Unidad estadística de investigación
+   3.3  Periodo de ejecución 
+   3.4  Actualización del registro 
+   3.5  Responsabilidad de la Municipalidad 
+   3.6  Periodo de referencia 
+   3.7  Dirección y responsabilidad del registro
+   3.8  Temas y variables a ser investigados 
+
+4. Actividades para la ejecución
+   4.1  Dirección y gerencia del registro 
+        4.1.1. Planeamiento y gerencia
+        4.1.2. Organización funcional
+        4.1.4. Elaboración de documentos técnicos - metodológicos
+        4.1.5. Supervisión y evaluación
+   4.2  Elaboración y reproducción de formularios
+        4.2.1. Elaboración de los formularios
+        4.2.2. Reproducción de los formularios
+   4.3  Promoción del registro
+   4.4  Distribución, recepción y archivo de los formularios 
+        4.4.1 Distribución de los formularios 
+        4.4.2 Recepción de los formularios 
+        4.4.3 Archivo de los formularios 
+        4.4.4 Elaboración de Rutas de trabajo 
+   4.5  Seguimiento de municipalidades omisas
+   4.6  Consistencia y procesamiento de datos 
+        4.6.1 Consistencia de los datos
+        4.6.2 Procesamiento de los datos  
+   4.7  Publicación de Resultados 
+   4.8  Análisis y evaluación del Registro 
+        4.8.1 Elaboración del Informe Metodológico 
+        4.8.2 Informe final 
+
+5. Cronograma de actividades
+
+6. Presupuesto
+
+I.  Perú: Código de los departamentos, provincias y distritos
+II. Guía de procedimientos para el embalaje de formulario
+III.Base legal del registro nacional de municipalidades]]>
+    </dcterms:tableOfContents>
+    <dc:creator>
+      Oficina Técnica de Estadísticas Departamentales OTED
+    </dc:creator>
+    <dc:subject>
+      Objetivos
+    </dc:subject>
+    <dc:subject>
+      Características técnicas
+    </dc:subject>
+    <dc:subject>
+      Actividades para la ejecución
+    </dc:subject>
+    <dc:subject>
+      Presupuesto
+    </dc:subject>
+    <dc:subject>
+      Guía de procedimientos para el embalaje de formulario
+    </dc:subject>
+    <dcterms:created>
+      2005-04-01
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Técnico [doc/tec]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Perú [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="Definiciones_y_Conceptos.pdf">
+    <rdf:label>
+      Definiciones y conceptos
+    </rdf:label>
+    <dc:title>
+      Conceptos y Definiciones
+    </dc:title>
+    <dc:description>
+      Documento técnico metodológico, que presenta las definiciones y conceptos de las variables utilizadas para el correcto llenado de los formularios que llegan de las municipalidades.
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[INTRODUCCION
+
+1. OBJETIVOS
+   1.1 Objetivo general 
+   1.2 Objetivos específicos 
+
+2. BASE LEGAL 
+
+3. CARACTERÍSTICAS TÉCNICAS
+   3.1 Cobertura del Registro 
+       3.1.1 Cobertura geográfica
+       3.1.2 Cobertura temporal
+       3.1.3 Cobertura temática 
+   3.2 Unidad de investigación 
+   3.3 Período de referencia
+   3.4 Actualización del registro 
+   3.5 Responsabilidad de la municipalidad
+   3.6 Dirección y responsabilidad del registro
+
+4. DEFINICIONES Y CONCEPTOS BÁSICOS 
+
+5. CUESTIONARIO
+   5.1 ANEXO 01 
+       Módulo I: Datos generales de la municipalidad 
+       Módulo II: Competencias y funciones de la municipalidad 
+       Módulo III: Gestión y política de desarrollo social
+   5.2 ANEXO 02 
+       Módulo I: Datos generales de la municipalidad de centro poblado
+       Módulo II: Personal y servicios municipales 
+       Módulo III: Otros servicios municipales
+
+6. TEMAS A INVESTIGAR 
+   6.1 Datos generales de la municipalidad 
+       6.1.1 Ubicación geográfica e identificación
+       6.1.2 Infraestructura, recursos humanos, presupuesto
+             6.1.2.1 Infraestructura
+             6.1.2.2 Recursos humanos
+             6.1.2.3 Presupuesto de apertura y ejecución
+   6.2 Competencias y funciones de la municipalidad
+       6.2.1 Planificación y organización del espacio físico
+             6.2.1.1 Planificación municipal
+             6.2.1.2 Catastro, habilitación urbana y asentamientos humanos.
+             6.2.1.3 Infraestructura urbana o rural básica, vialidad
+       6.2.2 Servicios públicos locales
+             6.2.2.1 Saneamiento ambiental y salubridad
+             6.2.2.2 Educación, cultura, deporte y recreación
+             6.2.2.3 Salud
+             6.2.2.4 Programas sociales
+             6.2.2.5 Seguridad ciudadana
+             6.2.2.6 Registro Civil
+             6.2.2.8 Promoción del desarrollo económico local
+             6.2.2.9 Protección y conservación de medio ambiente
+             6.2.2.10 Participación vecinal
+   6.3 Gestión y política de desarrollo social
+       6.3.1 Actividad económica en el distrito
+       6.3.2 Instalaciones en el distrito
+       6.3.3 Infraestructura básica distrital]]>
+    </dcterms:tableOfContents>
+    <dcterms:abstract>
+      <![CDATA[Este documento contiene las características técnicas, así como las principales definiciones de términos provenientes de los formularios y variables utilizadas. También contiene la descripción detallada de los temas tratados en los formularios.
+
+]]>
+    </dcterms:abstract>
+    <dc:creator>
+      Oficina Técnica de Estadísticas Departamentales OTED
+    </dc:creator>
+    <dc:subject>
+      Información técnica
+    </dc:subject>
+    <dc:subject>
+      Definiciones y conceptos básicos
+    </dc:subject>
+    <dc:subject>
+      Cuestionarios
+    </dc:subject>
+    <dc:subject>
+      Temas investigados
+    </dc:subject>
+    <dcterms:created>
+      2005-04-01
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Técnico [doc/tec]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Perú [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="Formulario01.pdf">
+    <rdf:label>
+      Formulario 01
+    </rdf:label>
+    <dc:title>
+      Formulario 01: Registro Nacional de Municipalidades 2005
+    </dc:title>
+    <dc:description>
+      Este documento es el formulario utilizado en el Registro Nacional de Municipalidades Provinciales y Distritales, contiene las preguntas y temas que abarca el estudio.
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[FORMULARIO 01: REGISTRO NACIONAL DE MUNICIPALIDADES 2005
+
+Módulo I:   Datos Generales de la Municipalidad
+            1.1 Ubicación geográfica e identificación
+            1.2 Infraestructura, recursos humanos y presupuesto
+          
+Módulo II:  Competencias y funciones de la Municipalidad
+            2.1 Planificación y organización del espacio físico
+            2.2 Servicios públicos locales
+
+Módulo III: Gestión y política de desarrollo social
+            3.1 Actividad económica en el distrito
+            3.2 Instalaciones en el distrito
+            3.3 Infraestructura básica distrital
+
+]]>
+    </dcterms:tableOfContents>
+    <dc:creator>
+      Oficina Técnica de Estadísticas Departamentales OTED
+    </dc:creator>
+    <dcterms:created>
+      2005-04-11
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Cuestionario [doc/qst]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Perú [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="Formulario02.pdf">
+    <rdf:label>
+      Formulario 02
+    </rdf:label>
+    <dc:title>
+      Formulario 02: Directorio de Municipalidadaes de Centro Poblado 2005
+    </dc:title>
+    <dc:description>
+      Este documento es el formulario utilizado en el Registro Nacional de Municipalidades de Centro Poblado, contiene las preguntas y temas que abarca el estudio.
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[FORMULARIO 02: DIRECTORIO DE MUNICIPALIDADES DE CENTROS POBLADOS 2005
+
+Módulo I:   Datos generales de la Municipalidad de Centro Poblado
+
+Módulo II:  Personal y Servicios Municipales
+            2.1 Personal de la Municipalidad
+            2.2 Registro Civil
+            2.3 Limpieza pública
+            2.4 Transferencia de recursos y gastos ejecutados
+
+Módulo III: Otros servicios municipales]]>
+    </dcterms:tableOfContents>
+    <dc:creator>
+      Oficina Técnica de Estadísticas Departamentales OTED
+    </dc:creator>
+    <dcterms:created>
+      2005-04-11T12:00
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Cuestionario [doc/qst]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Perú [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="Diccionario_Anexo01.pdf">
+    <rdf:label>
+      Diccionario de Datos 1
+    </rdf:label>
+    <dc:title>
+      Diccionario de datos 1
+    </dc:title>
+    <dc:description>
+      Documento que contiene información esencial de las variables.
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[Módulo I Datos generales de la Municipalidad.
+Módulo II Competencias y funciones de la Municipalidad.
+Módulo III Gestión y política de desarrollo social.
+]]>
+    </dcterms:tableOfContents>
+    <dcterms:abstract>
+      Este documento contiene las variables correspondientes al formulario 1 de Municipalidades Provinciales y Distritales. Relaciona la variable con el número de pregunta, tabla, nombre del campo, descripción del campo y sus valores.
+    </dcterms:abstract>
+    <dc:creator>
+      Oficina Técnica de Estadísticas Departamentales OTED
+    </dc:creator>
+    <dc:subject>
+      Características de las variables
+    </dc:subject>
+    <dcterms:created>
+      2005-04-01
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Técnico [doc/tec]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Perú [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="Diccionario_Anexo02.pdf">
+    <rdf:label>
+      Diccionario de Datos 2
+    </rdf:label>
+    <dc:title>
+      Diccionario de datos 2
+    </dc:title>
+    <dc:description>
+      Documento que contiene información esencial de las variables.
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[Módulo I Datos generales de la Municipalidad de Centro Poblado.
+Módulo II Personal y Servicios Municipales.
+Módulo III Otros Servicios Municipales. 
+]]>
+    </dcterms:tableOfContents>
+    <dcterms:abstract>
+      Este documento contiene las variables correspondientes al formulario 2 de Municipalidades de Centro Poblado. Relaciona la variable con el número de pregunta, tabla, nombre del campo, descripción del campo y sus valores.
+    </dcterms:abstract>
+    <dc:creator>
+      Oficina Técnica de Estadísticas Departamentales OTED
+    </dc:creator>
+    <dc:subject>
+      Características de las variables
+    </dc:subject>
+    <dcterms:created>
+      2005-04-01
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Técnico [doc/tec]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Perú [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="DS_033-2002-PCM.pdf">
+    <rdf:label>
+      Decreto Supremo N°033-2002-PCM
+    </rdf:label>
+    <dc:title>
+      Decreto Supremo N°033-2002-PCM
+    </dc:title>
+    <dc:description>
+      Documento publicado en el Diario "El Peruano", el cual contiene el D.S. 033-2002-PCM mediante el cual se aprueba el reglamento del Registro Nacional de Municipalidad RENAMU y el Directorio Nacional de Municipalidades de Centro Poblado Menor (DINAMUCEP).
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[DECRETO SUPREMO Nº 033-2002-PCM.
+
+REGLAMENTO DEL REGISTRO NACIONAL DE MUNICIPALIDADES.
+CAPITULO I DISPOSICIONES GENERALES.
+CAPITULO II DEL REGISTRO NACIONAL DE MUNICIPALIDADES.
+  Sección Primera Del Registro de Municipalidades Provinciales y Distritales.
+  Sección Segunda Del Directorio de Municipalidades de Centro Poblado Menor.
+CAPITULO III DE LA INFORMACION ESTADISTICA MUNICIPAL.
+  Sección Primera De la recolección de la información.
+  Sección Segunda De la Actualización del Registro Nacional de Municipalidades.
+  Sección Tercera De la Base de Datos del Registro Nacional de Municipalidades.
+DISPOSICION TRANSITORIA.
+]]>
+    </dcterms:tableOfContents>
+    <dc:creator>
+      Presidencia del Consejo de Ministros - PCM
+    </dc:creator>
+    <dcterms:created>
+      2002-04-09
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Referencia [doc/ref]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Perú [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="LEY_27563.pdf">
+    <rdf:label>
+      Ley Nº 27563
+    </rdf:label>
+    <dc:title>
+      Ley Nº 27563
+    </dc:title>
+    <dc:description>
+      Documento publicado en el Diario "El Peruano", el cual contiene la Ley Nº 27563, que autoriza la creación del Registro Nacional de Municipalidades.
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[LEY Nº 27563. 
+Artículo 1º .- Objeto de la Ley.
+Artículo 2º .- Contenido del Registro.
+Artículo 3º .- Obligación de las Municipalidades Provinciales. 
+
+DISPOSICIÓN TRANSITORIA. 
+DISPOSICIÓN COMPLEMENTARIA.]]>
+    </dcterms:tableOfContents>
+    <dc:creator>
+      Congreso de la República del Perú
+    </dc:creator>
+    <dcterms:created>
+      2001-11-24
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Referencia [doc/ref]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Perú [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="R.J. Nº122-2005-INEI.pdf">
+    <rdf:label>
+      Resolución Jefatural Nº 122 - 2005 - INEI
+    </rdf:label>
+    <dc:title>
+      Resolución Jefatural Nº 122 - 2005 - INEI
+    </dc:title>
+    <dc:description>
+      Documento publicado en el Diario "El Peruano", el cual contiene la Resolución Jefatural N° 122 - 2005 - INEI, que autoriza la ejecución del Registro Nacional de Municipalidades 2005 y su organización a la Oficina de Estadísticas Departamentales. Asimismo, establece el plazo máximo de presentación de formularios al INEI.
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[Resolución Jefatural N° 122 - 2005 - INEI.
+Artículo 1.
+Artículo 2.
+Artículo 3.
+Artículo 4.
+Artículo 5.
+Artículo 6.
+]]>
+    </dcterms:tableOfContents>
+    <dc:creator>
+      Instituto Nacional de Estadística e Informática
+    </dc:creator>
+    <dcterms:created>
+      2005-04-05
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Referencia [doc/ref]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Perú [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="map-politico.jpg">
+    <rdf:label>
+      Mapa Político del Perú
+    </rdf:label>
+    <dc:title>
+      Mapa Politico del Perú
+    </dc:title>
+    <dc:description>
+      Mapa Politico del Perú
+    </dc:description>
+    <dcterms:abstract>
+      Mapa que presenta la ubicación de los departamentos del Perú.
+    </dcterms:abstract>
+    <dc:creator>
+      Instituto Geográfico Nacional
+    </dc:creator>
+    <dc:format>
+      Imagen, JPEG [image/jpeg]
+    </dc:format>
+    <dc:type>
+      Mapa [map]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Perú [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="MunicipalidadLima.JPG">
+    <rdf:label>
+      Municipalidad de Lima Metropolitana
+    </rdf:label>
+    <dc:title>
+      Municipalidad de Lima Metropolitana
+    </dc:title>
+    <dc:description>
+      Foto del frontis de la Municipalidad Metropolitana de Lima
+    </dc:description>
+    <dc:creator>
+      Municipalidad de Lima Metropolitana
+    </dc:creator>
+    <dc:format>
+      Imagen, JPEG [image/jpeg]
+    </dc:format>
+    <dc:type>
+      Foto [pic]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Perú [per]
+    </dcterms:spatial>
+  </rdf:Description>
+</rdf:RDF>

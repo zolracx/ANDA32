@@ -1,0 +1,482 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <rdf:Description rdf:about="Ficha Técnica 2006.pdf">
+    <rdf:label>
+      Ficha Técnica 2006
+    </rdf:label>
+    <dc:title>
+      Ficha Técnica
+    </dc:title>
+    <dc:description>
+      Documento que describe las características de la metodología de la Encuesta Demográfica y de Salud Familiar Continua en general y en los casos que amerita se distingue las características del año 2006.
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[I.   ANTECEDENTES
+II.  CONSIDERACIONES PARA LA IMPLEMENTACIÓN DE LA ENDES CONTINUA
+III. OBJETIVOS DE LA INVESTIGACIÓN
+IV.  ESTRATEGIAS
+ V.  DISEÑO MUESTRAL
+
+5.1  Población Bajo Estudio
+5.2  Marco Muestral
+5.3  Unidades de Muestreo
+5.4  Tipo de Diseño
+5.5  Tamaño Muestral
+5.6  Dominio de Estudio
+5.7  Consideraciones del Muestreo
+5.8  Distribución de la Muestra de Conglomerados: Nacional y ENDES Continua 2006 según Departamentos
+5.9  Resultados de la Muestra para la ENDES Continua 2006
+5.10 Resultados de la Muestra para la ENDES Continua 2004-2006
+ 
+VI.  ESTRUCTURA DE LA ORGANIZACIÓN DE LA ENDES CONTINUA
+6.1  Organización Funcional
+6.2  Organigrama
+ 
+VII. CUESTIONARIOS Y PRINCIPALES TEMAS A INVESTIGAR
+ 
+VIII. PERIODOS DE REFERENCIA]]>
+    </dcterms:tableOfContents>
+    <dc:creator>
+      Instituto Nacional de Estadística e Informática.
+    </dc:creator>
+    <dc:publisher>
+      Instituto Nacional de Estadística e Informática.
+    </dc:publisher>
+    <dcterms:created>
+      2007-03-01
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Técnico [doc/tec]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Peru [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="Diccionario 2004-2006.pdf">
+    <rdf:label>
+      Diccionario 2004-2006
+    </rdf:label>
+    <dc:title>
+      Diccionario de variables de la base de datos
+    </dc:title>
+    <dc:description>
+      Contiene información esencial de las variables.
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[HOUSEHOLD 
+
+RECH0 Household's basic data 
+RECH1 Household schedule 
+RECH2 Household characteristics 
+RECH3 CS household variables 
+RECH4 CS household schedule 
+RECH5 Women Height/Weight/Hemoglob. 
+RECH6 Children Height/Weight/Hemogl. 
+RECHOBS Observation 
+
+INDIVIDUAL INDIVIDUAL 
+
+REC01 Respondent's basic data 
+REC11 Respondent's basic data 
+REC21 Reproduction 
+REC22 Reproduction ( cont. ) 
+REC31 Contraception Table 
+REC32 Contraception knowledge & use 
+REC41 Maternity 
+REC42 Health & Breastfeeding 
+REC43 Health 
+REC44 Height and Weight 
+REC51 Marriage/Exposure 
+REC61 Fertility preferences 
+REC71 Partner's Characteristics 
+REC75 AIDS and Condom Use 
+REC80 AIDS, STIs and Condom Use continuation 
+REC81 Characteristics of Interview 
+REC82 Calendar 
+REC83 Maternal mortality 
+REC84 Maternal mortality (suite) 
+RECDV Domestic violence 
+REC91 Country specific - single vars 
+REC94 Country specific - Maternity 
+REC95 Country specific - Health ]]>
+    </dcterms:tableOfContents>
+    <dc:publisher>
+      Instituto Nacional de Estadística e Informática.
+    </dc:publisher>
+    <dcterms:created>
+      2007-07-01
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Otro [doc/oth]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Peru [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cuestionario del Hogar 2006.pdf">
+    <rdf:label>
+      Cuestionario del Hogar 2006
+    </rdf:label>
+    <dc:title>
+      Cuestionario del Hogar
+    </dc:title>
+    <dc:description>
+      <![CDATA[El cuestionario del hogar registra las características más relevantes de cada uno de los miembros del hogar tales como: parentesco con el jefe del hogar, sexo, edad, cobertura de los seguros de salud, condición de actividad económica, nivel de educación alcanzado, matrícula escolar, asistencia escolar, supervivencia y residencia de los padres. Asimismo, proporciona información sobre las  características básicas de la vivienda: Estructurales (paredes, techo y piso), servicios básicos (alumbrado, agua y desagüe), posesión de electrodomésticos, de algún medio de transporte, combustible que usan para cocinar, habitaciones del hogar, habitaciones usadas para dormir, material predominante en el piso, pared y techo de la vivienda. También proporciona información sobre antropometría (peso y talla) y resultados de la prueba de hemoglobina de mujeres y niños menores de 6 años (módulo incorporado en cuestionario Endes Continua 2005). 
+El cuestionario de la ENDES Continua 2006 incorporaron preguntas acerca de salud ambiental.]]>
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[I.   IDENTIFICACIÓN                                                
+II.  LISTADO DEL HOGAR                                             
+3.1  Cobertura de los Seguros de Salud
+3.2  Condición de Actividad
+3.3  Educación
+3.4  Supervivencia y residencia de los padres
+III. CARACTERÍSTICAS DE LA VIVIENDA                                
+IV.  OBSERVACIÓN
+V.   PROCEDIMIENTO DE SELECCIÓN DE LA MUJER A SER ENTREVISTADA EN LA SECCIÓN DE "VIOLENCIA 
+     DOMÉSTICA".]]>
+    </dcterms:tableOfContents>
+    <dcterms:abstract>
+      El cuestionario del hogar proporciona información sobre las características generales de toda la población y de sus hogares. Con esta información se identifica a las mujeres de 15 a 49 años que son elegibles para ser entrevistadas con el Cuestionario Individual respectivo.
+    </dcterms:abstract>
+    <dc:creator>
+      Instituto Nacional de Estadística e Informática.
+    </dc:creator>
+    <dc:subject>
+      <![CDATA[CARATULA
+ 
+Contiene: conglomerado, vivienda seleccionada, identificación geográfica, identificación muestral, número de visitas de la entrevistadora, 
+códigos de resultado.
+ 
+LISTADO DEL HOGAR
+ 
+Contiene: Características demográficas, educativas, económicas y de salud (acceso al seguro de salud) de los miembros del hogar, 
+Supervivencia y residencia de los padre para personas menores de 15 años.
+ 
+CARACTERÍSTICAS DE LA VIVIENDA
+ 
+Contiene: Características básicas de la vivienda: Estructurales (paredes, techo y piso), servicios básicos (alumbrado, agua y desagüe), 
+equipamiento del hogar, posesión de electrodomésticos, e algún medio de transporte,  habitaciones del hogar, habitaciones usadas para dormir, combustible que usan para cocinar, salud ambiental.]]>
+    </dc:subject>
+    <dc:publisher>
+      Instituto Nacional de Estadística e Informática.
+    </dc:publisher>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Cuestionario [doc/qst]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Peru [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="Cuestionario Individual 2006.pdf">
+    <rdf:label>
+      Cuestionario Individual 2006
+    </rdf:label>
+    <dc:title>
+      Cuestionario Individual 2006
+    </dc:title>
+    <dc:description>
+      <![CDATA[El Cuestionario Individual de la Mujer contiene información referente a las mujeres de 15 a 49 años de edad: Características demográficas y sociales, historia reproductiva, atención pre-natal, asistencia del parto y atención puerperal, embarazo y lactancia, inmunización, prevalencia 
+de IRA y EDA, nupcialidad, preferencia de fecundidad, conocimiento y uso de métodos anticonceptivos, experiencia laboral, conocimientos y actitudes respecto al SIDA, mortalidad materna, violencia familiar.]]>
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[CARATULA
+SECCIÓN 1.  ANTECEDENTES DE LA ENTREVISTADA
+SECCIÓN 2.  REPRODUCCIÓN
+           HISTORIA DE NACIMIENTOS
+SECCIÓN 3.  ANTICONCEPCIÓN
+SECCIÓN 4A. EMBARAZO, PARTO, PUERPERIO Y LACTANCIA
+SECCIÓN 4B. INMUNIZACIÓN Y SALUD
+SECCIÓN 5.  NUPCIALIDAD
+SECCIÓN 6.  PREFERENCIAS DE FECUNDIDAD
+SECCIÓN 7.  ANTECEDENTES DEL CÓNYUGE Y TRABAJO DE LA MUJER
+SECCIÓN 8.  SIDA Y OTRAS E.T.S.
+SECCIÓN 9.  MORTALIDAD MATERNA
+SECCIÓN 10. VIOLENCIA DOMÉSTICA
+CALENDARIO]]>
+    </dcterms:tableOfContents>
+    <dc:creator>
+      Instituto Nacional de Estadística e Informática.
+    </dc:creator>
+    <dc:subject>
+      <![CDATA[SECCIÓN 1.  ANTECEDENTES DE LA ENTREVISTADA 
+Contiene: Lugar de residencia en la niñez, tiempo de residencia en la localidad actual, mes y año de nacimiento, nivel de educación, asistencia escolar y razón de la discontinuidad, alfabetismo, periodicidad en la lectura del periódico, oír la radio y en ver televisión; e idioma o dialecto materno.
+
+SECCIÓN 2.  REPRODUCCIÓN
+Contiene: Se utilizó una historia de nacimientos para recolectar la siguiente información: total de hijos e hijas nacidos vivos, mes y año de nacimiento de cada uno de sus hijos, sobrevivencia de los mismos y edad al fallecer si no sobrevivió. También se recolectó información sobre el embarazo actual, control del último embarazo, afiliación al seguro materno infantil, embarazos terminados en aborto o nacidos muertos y conocimiento de los días fértiles.
+
+SECCIÓN 3.  ANTICONCEPCIÓN
+Contiene: Conocimiento y uso de métodos anticonceptivos y fuentes de suministro, el uso fue informado, el método fue el elegido, quién decidió el uso del método y opinión respecto a la información recibida cuando le prescribieron el método; y para quienes no estaban usando un método, razón del no uso de algún método anticonceptivo para evitar o postergar el embarazo.
+
+SECCIÓN 4A. EMBARAZO, PARTO, PUERPERIO Y LACTANCIA
+Contiene: Atención pre-natal y del parto (personal que atendió y lugar de atención), cobertura antitetánica, peso del bebé al nacer, control postparto y lactancia materna.
+
+SECCIÓN 4B. INMUNIZACIÓN Y SALUD
+Contiene: Cobertura de las vacunas: BCG, Polio, DPT y Sarampión. Prevalencia y forma de tratamiento de la Diarrea y de las Infecciones Respiratorias Agudas. Opinión sobre qué síntomas debe tener un niño para decidir llevarlo a establecimiento de salud. Alimentación del niño en los últimos siete días y en las últimas veinticuatro horas.
+
+SECCIÓN 5.  NUPCIALIDAD
+Contiene: Estado conyugal de la mujer, tiempo de exposición al riesgo del embarazo. Fecha de la última relación sexual, uso del condón y conocimiento de lugares de obtención. Edad a la que tuvo su primera relación sexual.
+
+SECCIÓN 6.  PREFERENCIAS DE FECUNDIDAD
+Contiene: Deseo de tener más hijos. Opinión de la no usuarias respecto a si va a usar métodos anticonceptivos en los próximos doce meses. Número ideal de hijos que le hubiera gustado y opinión respecto al número deseado por su esposo. Cobertura de los mensajes de planificación familiar.
+
+SECCIÓN 7.  ANTECEDENTES DEL CÓNYUGE Y TRABAJO DE LA MUJER
+Contiene: Edad, educación, actividad económica del actual o más reciente esposo o compañero. Experiencia laboral de la entrevistada, el tipo de remuneración y quien cuida a sus hijos menores de 6 años mientras ella trabaja.
+
+SECCIÓN 8.  SIDA Y OTRAS E.T.S.
+Contiene: ETS que conoce y síntomas que le permiten identificar a una persona con alguna enfermedad de transmisión sexual, formas de evitar infectarse con el SIDA, autopercepción del riesgo de contraer el SIDA; y, opinión respecto al SIDA y las personas infectadas.
+
+SECCIÓN 9.  MORTALIDAD MATERNA
+Contiene: Sexo, edad, total de hijos tenidos y año de la defunción, de ser el caso, de todos los hermanos y hermanas maternas de la entrevistada. Momento de la defunción de las hermanas: durante el embarazo, el parto inmediatamente después del parto o después de un aborto.
+
+SECCIÓN 10. VIOLENCIA FÍSICA
+Contiene: Prevalencia de la violencia física y psicológica en mujeres de 15 a 49 años de edad, antecedentes de violencia entre los padres de la entrevistada, a quien pidió ayuda si sufrió acto de violencia; y razones por la que no pidió ayuda cuando sufrió acto de violencia.
+
+CALENDARIO
+Contiene: Un registro mensual detallado de los principales eventos demográficos de la entrevistada. En la ENDES Continua 2004 desde Enero de 1999, en cuatro columnas: (1) nacimientos, embarazos y uso de métodos anticonceptivos, (2) motivo de la discontinuidad en el uso del método anticonceptivo, (3) estado y cambio del estado marital y (4) localidad y cambio de residencia. En la ENDES Continua 2005 y 2006 desde enero del 2000 y 2001, respectivamente; en cuatro columnas: (1) nacimientos, embarazos y uso de métodos anticonceptivos, (2) motivo de la discontinuidad en el uso del método anticonceptivo, (3) fuente de anticoncepción y (4) estado y cambio del estado marital.]]>
+    </dc:subject>
+    <dc:publisher>
+      Instituto Nacional de Estadística e Informática.
+    </dc:publisher>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Cuestionario [doc/qst]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Peru [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="Manual de la Entrevistadora 2006.pdf">
+    <rdf:label>
+      Manual de la Entrevistadora 2006
+    </rdf:label>
+    <dc:title>
+      Manual de la Entrevistadora 2006
+    </dc:title>
+    <dc:description>
+      <![CDATA[El documento presenta los objetivos y características técnicas de la encuesta, la organización adoptada para su ejecución en forma descentralizada. Asimismo, contiene los fundamentos metodológicos: definiciones, conceptos, procedimientos e instrucciones básicas necesarias para que el trabajo de la entrevistadora se desarrolle en el marco de un trabajo dentro de los  parámetros de homogeneidad, calidad, veracidad y confiabilidad.]]>
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[Introducción.
+1  Antecedentes.
+2  Objetivos de la investigación.
+3  Estrategias.
+4  Características técnicas de la encuesta.
+5  Estructura de la organización de la ENDES Continua.
+6  Funciones del personal de campo.
+7  Técnicas para realizar una buena entrevista.
+8  Tareas de la entrevistadora.
+9  Cuestionarios y principales temas a investigar.
+10 Características técnicas de los cuestionarios.
+11 Instrucciones específicas para aplicar el cuestionario del hogar.
+12 Preparación de un cuestionario individual para cada persona elegible.
+13 Instrucciones específicas para aplicar el cuestionario individual.
+    Sección 1:   Antecedentes de la entrevistada.
+    Sección 2:   Reproducción.
+    Sección 3:   Anticoncepción.
+    Sección 4:   Salud de los niños.
+    Sección 4a:  Embarazo, parto, puerperio y lactancia.
+    Sección 4b:  Inmunización y salud.
+    Sección 5:   Nupcialidad.
+    Sección 6:   Preferencias de fecundidad.
+    Sección 7:   Antecedentes del cónyuge y trabajo de la mujer.
+    Sección 8:   El síndrome de inmunodeficiencia adquirida (sida) y enfermedades de transmisión  
+                 sexual.
+    Sección 9:   Mortalidad materna.
+    Sección 10:  Violencia doméstica.
+14 Instrucciones para el diligenciamiento del calendario. 
+Recomendaciones generales.
+Anexo: definiciones básicas.]]>
+    </dcterms:tableOfContents>
+    <dcterms:abstract>
+      Documento de referencia y consulta para uso de la Entrevistadora, el cual facilita el trabajo de campo y sirve para homogenizar criterios y hacer comparables los datos obtenidos.
+    </dcterms:abstract>
+    <dc:creator>
+      Instituto Nacional de Estadística e Informática.
+    </dc:creator>
+    <dc:subject>
+      <![CDATA[Organización de la Encuesta.
+Funciones de la entrevistadora.
+Técnicas para la entrevista.
+Instrucciones específicas de los cuestionarios.
+Recomendaciones generales.]]>
+    </dc:subject>
+    <dcterms:created>
+      2005-12-01
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Referencia [doc/ref]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Peru [per]
+    </dcterms:spatial>
+  </rdf:Description>
+  <rdf:Description rdf:about="Informe Principal 2004-2006.pdf">
+    <rdf:label>
+      Informe Principal 2004-2006
+    </rdf:label>
+    <dc:title>
+      Encuesta Demográfica y de Salud Familiar - ENDES Continua 2004- 2006
+    </dc:title>
+    <dcterms:alternative>
+      Informe Principal
+    </dcterms:alternative>
+    <dc:description>
+      En este informe se describen aspectos relacionados con la salud en general y la salud materno-infantil en particular, con énfasis en salud reproductiva, niveles y preferencias de fecundidad, otros determinantes de la fecundidad, morbilidad y mortalidad para menores de cinco años. Información sobre el conocimiento de enfermedades de transmisión sexual (ETS), de las actitudes y prácticas relacionadas con el VIH/SIDA y violencia intrafamiliar. Asimismo, se proporciona información sobre los miembros del hogar, infraestructura y equipamiento de la vivienda.
+    </dc:description>
+    <dcterms:tableOfContents>
+      <![CDATA[LISTA DE CUADROS
+LISTA DE GRÁFICOS 
+PRESENTACIÓN
+RESUMEN DE RESULTADOS 
+DATOS BÁSICOS
+ 
+CAPÍTULO 1 INTRODUCCIÓN
+1.1 Antecedentes y Objetivos de la Encuesta
+1.2 Aspectos Metodológicos 
+1.3 Aspectos Operativos de la ENDES Continua 2006 
+1.4 Perú: Aspectos Geográficos y Políticos Administrativos 
+1.5 Economía y Población
+1.6 Perú: Política y Programa Nacional de Población 
+1.7 Perú: Programas y Prioridades de Salud 
+ 
+CAPÍTULO 2 CARACTERÍSTICAS DE LOS HOGARES Y LA POBLACIÓN
+2.1 Características de las Viviendas y los Hogares
+2.2 Características de la Población
+ 
+CAPÍTULO 3 CARACTERÍSTICAS GENERALES DE LAS MUJERES 
+3.1 Características Generales 
+3.2 Antecedentes de las Entrevistadas según Nivel de Educación
+3.3 Acceso a Medios de Comunicación 
+3.4 Características Laborales de las Entrevistadas
+3.5 Administración del Salario y Participación en la Toma de Decisiones 
+3.6 Autonomía de la Mujer: Actitudes de la Mujer hacia Comportamientos Específicos 
+ 
+CAPÍTULO 4 LA FECUNDIDAD
+4.1 Niveles, Tendencias y Diferenciales de la Fecundidad
+4.2 Fecundidad Acumulada
+4.3 Intervalos Entre Nacimientos
+4.4 Edad de la Madre al Nacimiento del Primer Hijo 
+4.5 Fecundidad de Adolescentes 
+ 
+CAPÍTULO 5 PLANIFICACIÓN FAMILIAR
+5.1 Conocimiento de Métodos 
+5.2 Uso de Métodos
+5.3 Discontinuación del Uso de Métodos y Uso Futuro 
+5.4 Mensajes sobre Planificación Familiar: Exposición y Aceptabilidad
+ 
+CAPÍTULO 6 OTROS DETERMINANTES DE LA FECUNDIDAD
+6.1 Estado Conyugal Actual
+6.2 Edad a la Primera Unión Conyugal
+6.3 Edad a la Primera Relación Sexual 
+6.4 Actividad Sexual Previa y Reciente
+6.5 Infertilidad Postparto
+6.6 Exposición al Riesgo de Embarazo entre las Mujeres de 30 y más Años 
+ 
+CAPÍTULO 7 PREFERENCIA DE FECUNDIDAD
+7.1 El Deseo de Tener más Hijos
+7.2 La Necesidad Insatisfecha y la Demanda de Servicios de Planificación Familiar 
+7.3 Número Ideal de Hijos
+7.4 Planificación de la Fecundidad 
+7.5 Tasas de Fecundidad Deseada 
+ 
+CAPÍTULO 8 MORTALIDAD INFANTIL Y EN LA NIÑEZ 
+8.1 Niveles y Tendencias de la Mortalidad Infantil y en la Niñez
+8.2 Diferenciales de la Mortalidad Infantil y en la Niñez 
+8.3 Mortalidad y Situación de la Mujer 
+8.4 Mortalidad Perinatal
+ 
+CAPÍTULO 9 SALUD MATERNO INFANTIL
+9.1 Atención Prenatal 
+9.2 Atención del Parto
+9.3 Cuidado Postnatal de las Madres 
+9.4 Vacunación de los Niños
+9.5 Enfermedades Respiratorias Agudas y Fiebre
+9.6 Diarrea Aguda 
+9.7 Problemas de las Mujeres al Acceso a los Servicios de Salud
+
+CAPÍTULO 10 LACTANCIA Y NUTRICIÓN DE NIÑOS Y MADRES 
+10.1 Iniciación de la Lactancia
+10.2 Lactancia y Alimentación Suplementaria según Edad del Niño
+10.3 Duración de la Lactancia
+10.4 Tipo de Alimentación Complementaria según Meses desde el Nacimiento
+10.5 Anemia en Niños y Mujeres
+10.6 Nutrición de los Niños 
+10.7 Nutrición de las Madres
+ 
+CAPÍTULO 11 CONOCIMIENTO DE VIH/SIDA Y OTRAS ETS
+11.1 Conocimiento de VIH/SIDA y Formas de Evitar el Contagio
+11.2 Conocimiento de Asuntos Relacionados con el VIH/SIDA 
+11.3 Conocimiento de las Enfermedades de Transmisión Sexual (ETS)
+11.4 Prevalencia de las Enfermedades de Transmisión Sexual
+11.5 Conducta Sexual, Uso del Condón y Acceso al Condón
+ 
+CAPÍTULO 12 VIOLENCIA CONTRA LAS MUJERES
+12.1 Violencia Verbal del Esposo contra la Mujer 
+12.2 Violencia Física contra la Mujer 
+12.3 Solicitud de Ayuda y Denuncia del Maltrato
+ 
+APÉNDICE A DISEÑO Y COBERTURA DE LA MUESTRA
+APÉNDICE B LOS ERRORES DE MUESTREO
+APÉNDICE C CALIDAD DE LA INFORMACIÓN
+APÉNDICE D EL CUESTIONARIO DEL HOGAR
+APÉNDICE E EL CUESTIONARIO INDIVIDUAL DE MUJERES
+APÉNDICE F PERSONAL DE LA ENCUESTA]]>
+    </dcterms:tableOfContents>
+    <dc:creator>
+      Instituto Nacional de Estadística e Informática.
+    </dc:creator>
+    <dc:subject>
+      <![CDATA[Fecundidad.
+Planificación familiar.
+Salud Materno infantil.
+Lactancia y nutrición.
+Conocimiento de VIH/ Sida y Otras enfermedades de transmisión social.
+Violencia doméstica.]]>
+    </dc:subject>
+    <dcterms:created>
+      2007-08-01
+    </dcterms:created>
+    <dc:format>
+      Documento, PDF [application/pdf]
+    </dc:format>
+    <dc:type>
+      Documento, Reportes [doc/rep]
+    </dc:type>
+    <dc:language>
+      Español [spa]
+    </dc:language>
+    <dcterms:spatial>
+      Peru [per]
+    </dcterms:spatial>
+  </rdf:Description>
+</rdf:RDF>
